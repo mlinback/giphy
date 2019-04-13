@@ -1,0 +1,16 @@
+head {
+    background-color: greenyellow;
+}
+
+header {
+    margin: auto;
+    width: 375px;
+    border: 10px solid green;
+    padding: 15px;
+    background-color: brown;
+}
+
+body {
+    background-color: burlywood;
+}
+
